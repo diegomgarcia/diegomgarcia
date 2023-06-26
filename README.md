@@ -4,11 +4,9 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>    
   </h1>
 
-  <p><strong>Welcome to my page!</strong></p>
-  <br>
   <p>I'm Diego Garcia.</p>
   <p>Currently learning to integrate LLM into microservices applications.</p>
-  <p>Open to collaborating on interesting and innovative projects.</p>
+  <p>Open to collaborate on interesting and innovative projects.</p>
 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm50MjFkbXhhaWZnNmtodjlmb2ZkaDJjNWVyanYyM2U4cmgyOGdycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JKo6P5QyuFkuhLlfVq/giphy.gif" width="100"/>
 
