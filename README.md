@@ -11,13 +11,13 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm50MjFkbXhhaWZnNmtodjlmb2ZkaDJjNWVyanYyM2U4cmgyOGdycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JKo6P5QyuFkuhLlfVq/giphy.gif" width="100"/>
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/diegomarquesgarcia/">
+    <a href="https://www.linkedin.com/in/DevDiegoGarcia/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>  
-    <a href="https://twitter.com/tdiegogarcia">  
+    <a href="https://twitter.com/DevDiegoGarcia">  
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <a href="https://www.instagram.com/diegomgarcia/">  
+    <a href="https://www.instagram.com/DevDiegoGarcia/">  
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>  
   </div>
