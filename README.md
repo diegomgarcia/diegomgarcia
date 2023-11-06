@@ -39,6 +39,7 @@
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/diegomgarcia)
 
 # Technologies & Frameworks
+[![React.Js](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/diegomgarcia)
 [![Vue.js](https://img.shields.io/badge/vuejs-black?style=for-the-badge&logo=vuedotjs)](https://github.com/diegomgarcia)
 [![.Net](https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=.net)](https://github.com/diegomgarcia)
 [![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=Flutter)](https://github.com/diegomgarcia)
