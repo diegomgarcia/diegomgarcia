@@ -30,11 +30,12 @@
 [![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=c-sharp)](https://github.com/diegomgarcia)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/diegomgarcia)
 [![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)](https://github.com/diegomgarcia)
+[![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust)](https://github.com/diegomgarcia)
 [![Dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart)](https://github.com/diegomgarcia)
 [![Delphi](https://img.shields.io/badge/delphi-black?style=for-the-badge&logo=delphi)](https://github.com/diegomgarcia)
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/diegomgarcia)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/diegomgarcia)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/diegomgarcia)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/diegomgarcia)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/diegomgarcia)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/diegomgarcia)
 
